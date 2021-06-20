@@ -1,5 +1,5 @@
 <p align="center">
-<img src="./resources/Screenshot (333).png" width="100%" height="80px" alt="header"/>
+<img src="./resources/Screenshot (333).png" width="100%" height="100px" alt="header"/>
 </p>
 
 ## Tees and T's (Frontend)
